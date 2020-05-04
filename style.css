@@ -1,0 +1,12 @@
+* {
+  font-family: Lato;
+}
+
+.btn{
+  background:#0078cf;
+  border: solid 1px #0078cf;
+  padding: 10px;
+  color: white;
+  font-size:16px;
+  cursor:pointer;
+}
